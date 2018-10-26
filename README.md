@@ -1,7 +1,8 @@
 # TestProject
 Test Project
 
-https://travis-ci.org/ajaykrthakur/TestProject.svg?branch=master
+[![Build Status](https://travis-ci.org/ajaykrthakur/TestProject.svg)](https://travis-ci.org/ajaykrthakur/TestProject)
+
 
 Something else added to the readme file
 

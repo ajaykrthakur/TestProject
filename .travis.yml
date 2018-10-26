@@ -2,4 +2,4 @@ language: java
 jdk:
   - oraclejdk8
 before_script: cd TestMavenProject
-script: "mvn clean build"
+script: "mvn clean install"
